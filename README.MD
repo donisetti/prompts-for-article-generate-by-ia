@@ -83,12 +83,12 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     />
     <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://www.linkedin.com/in/donisetticosma/">
     GitHub</a>&nbsp;|&nbsp;
     <a href="www.linkedin.com/in/
 felipe-exe">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
+    <a href="https://www.instagram.com/donisetticosma/">
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
@@ -97,4 +97,4 @@ felipe-exe">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Donisetti Ferreira Cosma](https://github.com/donisetti)
