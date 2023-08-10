@@ -81,7 +81,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       width=80 
       src="https://avatars.githubusercontent.com/u/857239?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspDonisetti Cosma<br>
     &nbsp&nbsp&nbsp
     <a href="https://www.linkedin.com/in/donisetticosma/">
     GitHub</a>&nbsp;|&nbsp;
