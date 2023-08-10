@@ -22,7 +22,7 @@
 # Projeto artigo técnico gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me).
+ > ℹ️ **NOTE:** Aluno [DIO](https://dio.me): Projeto Final - Implementando um ChatGPT para DEV.
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=ktfS6qIy7XM" title="Preview do Conteúdo">
